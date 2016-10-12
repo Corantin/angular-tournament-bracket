@@ -1,0 +1,13 @@
+{
+    "name": "angular.tournament.bracket",
+    "version": "0.0.1",
+    "dependencies": {
+        "angular":          "1.5.8",
+        "angular-animate":  "1.5.8",
+        "angular-aria":     "1.5.8",
+        "angular-mocks":    "1.5.8",
+        "bootstrap":        "3.3.7",
+        "jquery":           "1.9.1"
+    },
+    "analytics": false
+}
